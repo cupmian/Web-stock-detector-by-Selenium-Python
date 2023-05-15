@@ -1,0 +1,39 @@
+name: Jd-Auto-Shopping-master
+channels:
+  - defaults
+dependencies:
+  - altgraph=0.17.3=py37haa95532_0
+  - brotlipy=0.7.0=py37h2bbff1b_1003
+  - ca-certificates=2023.01.10=haa95532_0
+  - certifi=2022.12.7=py37haa95532_0
+  - cffi=1.15.1=py37h2bbff1b_3
+  - charset-normalizer=2.0.4=pyhd3eb1b0_0
+  - cryptography=39.0.1=py37h21b164f_0
+  - future=0.18.3=py37haa95532_0
+  - idna=3.4=py37haa95532_0
+  - importlib-metadata=2.0.0=py_1
+  - openssl=1.1.1t=h2bbff1b_0
+  - pefile=2022.5.30=py37haa95532_0
+  - pip=22.3.1=py37haa95532_0
+  - pycparser=2.21=pyhd3eb1b0_0
+  - pyinstaller=5.6.2=py37h2bbff1b_0
+  - pyinstaller-hooks-contrib=2022.14=py37haa95532_0
+  - pyopenssl=23.0.0=py37haa95532_0
+  - pysocks=1.7.1=py37_1
+  - python=3.7.16=h6244533_0
+  - pywin32=305=py37h2bbff1b_0
+  - pywin32-ctypes=0.2.0=py37_1001
+  - requests=2.28.1=py37haa95532_0
+  - ruamel.yaml=0.17.21=py37h2bbff1b_0
+  - ruamel.yaml.clib=0.2.6=py37h2bbff1b_1
+  - selenium=3.141.0=py37hfa6e2cd_1001
+  - setuptools=65.6.3=py37haa95532_0
+  - sqlite=3.41.2=h2bbff1b_0
+  - urllib3=1.26.14=py37haa95532_0
+  - vc=14.2=h21ff451_1
+  - vs2015_runtime=14.27.29016=h5e58377_2
+  - wheel=0.38.4=py37haa95532_0
+  - win_inet_pton=1.1.0=py37haa95532_0
+  - wincertstore=0.2=py37haa95532_2
+  - zipp=3.11.0=py37haa95532_0
+prefix: C:\Users\Administor\anaconda3\envs\Jd-Auto-Shopping-master
